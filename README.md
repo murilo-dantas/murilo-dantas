@@ -10,5 +10,8 @@ Formado em Engenharia Elétrica, trabalho na maior empresa de tecnologia do entr
 
 [![Murilo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=murilo-dantas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/murilo-dantas/github-readme-stats#gh-dark-mode-only)
 [![Murilo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=murilo-dantas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/murilo-dantas/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-dantas&hide_progress=true)
 
+
+          
+            
+          
