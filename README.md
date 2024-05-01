@@ -7,4 +7,5 @@ Formado em Engenharia Elétrica, trabalho na maior empresa de tecnologia do entr
 - 📫 Contate-me no email: murilomdantas7@gmail.com
 - ⚡ Fun fact: Já fui faixa preta de Karatê
 
-- (https://github-readme-stats.vercel.app/api?username=murilo-dantas&show_icons=true&theme=transparent)
+[![Murilo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=murilo-dantas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Murilo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=murilo-dantas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
