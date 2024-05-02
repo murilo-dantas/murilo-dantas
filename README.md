@@ -1,6 +1,6 @@
 ## Olá! Eu sou Murilo Dantas
 
-Formado em Engenharia Elétrica, trabalho na maior empresa de tecnologia do entretenimento ao vivo como CX. Atualmente cursando Desenvolvivento de Software - Full Stack na Cubos Academy. Sou uma pessao bem calma e resiliente, ótimo com relações interpessoais. Busco oportunidade como desenvolvedor júnior.
+Formado em Engenharia Elétrica, trabalho na maior empresa de tecnologia do entretenimento ao vivo como CX. Atualmente cursando Desenvolvivento de Software - Full Stack na Cubos Academy. Sou uma pessoa bem calma e resiliente, ótimo com relações interpessoais. Busco  minha primeira oportunidade como desenvolvedor júnior.
 
 - 🔭 Hoje trabalho como CX - Custumer Experiencena Zig
 - 🌱 Estudando Java Script
